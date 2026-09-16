@@ -8,3 +8,5 @@ test/
 test - copy/
 .gitignore
 pipeline.local.ps1
+uploader_session.session-journal
+uploader_session.session
